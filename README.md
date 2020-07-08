@@ -3,7 +3,7 @@
 Winform windowsless program to list and control services in the notification area
 
 ## Usage
-Open **solution** in Visual Studio 17/19 and build then execute the genereted file from %repo%\WinServicesNotify\WinServicesNotify\bin\Debug
+Open **WinServicesNotify.sln** in Visual Studio 17/19 and build then execute the genereted file from %repo%\WinServicesNotify\WinServicesNotify\bin\Debug
 
 ## v0.1
 - gets the list of services with current status indicator
